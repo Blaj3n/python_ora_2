@@ -30,5 +30,3 @@ for i in range(0, len(szamlista)): # [[, len(szamlista) = 11, a range()-be csak 
     if szamlista[i] == 4:
         print(f"Az elem helye a listában: {i + 1}, az elem maga: {szamlista[i]}. ")
         break
-
-print("Próba github commitolásra, reméljük, hogy sikerülni fog.")
